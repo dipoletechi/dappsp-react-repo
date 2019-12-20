@@ -1,0 +1,62 @@
+body{
+  background-color: #151529!important;
+  color: white!important;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #151529;
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {    
+  background-color: rgb(27,27,56);
+  box-shadow: inset 0 0 5px #d1d1d1; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #151529; 
+}
+
+
+@media (min-width: 992px) {
+  .remove-padding{
+    padding: 0px!important;
+  }
+}
+
+
+
+
+

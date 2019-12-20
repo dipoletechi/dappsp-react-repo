@@ -1,0 +1,42 @@
+{
+  "header": {
+    "wallet": "मेरा बटुआ",
+    "testnet":"टेस्टनेट",
+    "mainnet":"मैंननेट",
+    "scatter":"स्कैटर"
+  },
+  "content": {
+    "title": "दपपस्प.नेट", 
+    "search":"खोजैं",
+    "pagingtext":"डी.एस.पी. प्रति पृष्ठ पर",
+    "inactive":"निष्क्रिय", 
+    "ascending":"बढ़ते क्रम में",
+    "decending":"घटते क्रम में",  
+    "active":"सक्रिय",
+    "email":"ईमेल",
+    "service":"सर्विस",
+    "website":"वेबसाइट",
+    "sortby":"क्रम में देखें",
+    "packagename":"पैकेज का नाम",
+    "packageid":"पैकेज आईडी",
+    "provider":"प्रदाता",
+    "quota":"कोटा",
+    "packageperiod":"पैकेज की अवधि",
+    "minimumunstakeperiod":"न्यूनतम अनस्टेक अवधि",
+    "minimumstakequantity":"न्यूनतम स्टैक मात्रा",
+    "servicelevelagreement":"सेवा स्तर समझौता",
+    "availabilityuptime":"उपलब्धता अपटाइम",
+    "performance":"परफॉरमेंस",
+    "apiendpoint":"एपीआई एन्डपॉइन्ट ",
+    "packagejsonurl":"पैकेज जे.एस.ओ.एन यूआरएल",
+    "dspjsonurl":"डी.एस.पी. जे.एस.ओ.एन यूआरएल",
+    "codeofconduct":"आचार संहिता",
+    "ownershipdisclousre":"स्वामित्व प्रकटीकरण"
+  },
+  "footer":{
+    "support":"सपोर्ट",
+    "terms":"नियम एवं शर्तें",
+    "privacy":"गोपनीयता नीति",
+    "contactus":"हमसे संपर्क करें"
+  }
+}

@@ -1,0 +1,77 @@
+.dsplogo{
+    border: 1px solid #d1d1d1;
+    /* border-radius: 50%; */
+    height: 72px;
+    border-top-left-radius: 37%;    
+}
+
+.dappname{
+    color: #d1d1d1;
+}
+
+.dsprow{
+    background-color: rgb(27,27,56);
+    /* background-color: red; */
+    border-top-left-radius: 27px;  
+    margin-top: 23px;  
+}
+
+.dsp-active-status{
+    border: 1.8px solid #163839;
+    border-radius: 17px;
+    width: 21%;
+    text-align: center;
+    padding: 1px;
+}
+
+.dsp-inactive-status{
+    border: 1.8px solid #9f4a17;
+    border-radius: 17px;
+    width: 21%;
+    text-align: center;
+    padding: 1px;
+}
+.logo-container{
+    border-top-left-radius: 37%;       
+}
+
+.orange-text{
+    color: #c78a1f;
+}
+
+.countryname{
+    margin-top: 6px;
+    word-wrap: break-word;
+    /* color: #d1d1d1; */
+    font-weight: 100;
+}
+
+.right-border{
+    border-right: 1px solid #c78a1f;
+}
+
+.dsppackageinfotable{
+    width: 100%;
+    font-weight: 100!important;
+}
+
+.dsppackageinfotable tr{
+    border-bottom: 1px dotted #c78a1f;
+}
+
+.dsppackageinfotable tr:last-child{
+    border-bottom:none;
+}
+.dsppackageinfotable td{
+            text-align: right;
+            width:50%;
+            color: #d1d1d1; 
+            word-break: break-word;           
+}
+
+.dsppackageinfotable td+td{
+    text-align: left;
+    padding-left: 62px;
+    color: #c78a1f;
+}
+

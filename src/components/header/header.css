@@ -1,0 +1,104 @@
+.logoimg{
+    height: 81px;
+}
+
+  #navbar {
+    overflow: hidden;
+    background-color: #222;
+    padding: 0px;
+  }
+ 
+  
+  .content {
+    padding: 16px;
+  }
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: block!important;
+  }
+  
+  .sticky + .content {
+    padding-top: 60px;
+  }
+  
+  .network-tab{
+    border: 1px #d1d1d1 solid!important;
+    color: #d1d1d1!important;
+    padding-left: 13px!important;
+    padding-right: 9px!important;
+    padding-top: 7px!important;
+    padding-bottom: 6px!important;
+    font-size: 13px!important;
+  }
+
+  .network-tab:focus {
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 0.2rem rgba(251,172,24,0.25)!important;
+    box-shadow: 0 0 0 0.2rem rgba(251,172,24,0.25)!important;
+}
+
+  #navbar{
+    display: none;
+    z-index: 1;
+  }
+
+
+  .menu-icon{
+    font-size: 34px;
+    padding-left: 8px;
+    padding-right: 8px;
+    color: #d1d1d1;
+  }
+
+  .menu-toggler-icon{
+      font-size: 34px;
+      color:rgba(251,172,24);
+  }
+
+  .header-btn{
+    border: 1px #d1d1d1 solid!important;
+    color: #d1d1d1!important;
+    padding-left: 6px!important;
+    padding-right: 6px!important;
+    padding-top: 6px!important;
+    padding-bottom: 6px!important;
+    font-size: 13px!important;
+  }
+
+  .header-btn:focus {
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 0.2rem rgba(251,172,24,0.25)!important;
+    box-shadow: 0 0 0 0.2rem rgba(251,172,24,0.25)!important;
+}
+
+.slim-menu-logo{
+    height: 45px;
+}
+
+.header-dropdown-menu{
+  background-color: #151529!important;
+  border: 1px #d1d1d1 solid!important;  
+  color: #d1d1d1!important;
+
+}
+
+.wallet-selector{
+  background: url('../../images/wallet-s.png')  no-repeat left center;   
+  padding-left: 28px!important;
+  background-position: 2px 6px!important;
+}
+
+.header-dropdown-menu:focus{
+  background-color :transparent;
+  color: #d1d1d1;  
+  box-shadow: 0 0 0 0.2rem rgba(251,172,24,0.25)!important;
+}
+
+
+.header-dropdown-menu:hover{
+  background-color :transparent;
+  color: #d1d1d1;  
+}

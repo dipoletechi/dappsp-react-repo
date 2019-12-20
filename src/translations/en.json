@@ -1,0 +1,42 @@
+{
+  "header": {
+    "wallet": "My wallet",
+    "testnet":"Testnet",
+    "mainnet":"Mainnet",
+    "scatter":"Scatter"
+  },
+  "content": {
+    "title": "dappsp.net",
+    "active":"Active",
+    "search":"Search",
+    "pagingtext":"DSP per page",
+    "inactive":"InActive",
+    "ascending":"Ascending",
+    "decending":"Decending",
+    "sortby":"Sort By",
+    "email":"Email",
+    "service":"Service",
+    "website":"Website",
+    "packagename":"Package Name",
+    "packageid":"Package Id",
+    "provider":"provider",
+    "quota":"quota",
+    "packageperiod":"Package Period",
+    "minimumunstakeperiod":"Minimum Unstake Period",
+    "minimumstakequantity":"Minimum Stake Quantity",
+    "servicelevelagreement":"Service Level Agreement",
+    "availabilityuptime":"Availability Uptime",
+    "performance":"Performance",
+    "apiendpoint":"API Endpoint",
+    "packagejsonurl":"Package Json Url",
+    "dspjsonurl":"DSP Json Url",
+    "codeofconduct":"Code of conduct",
+    "ownershipdisclousre":"Ownership Disclosure"
+  },
+  "footer":{
+    "support":"Support",
+    "terms":"Terms & Conditions",
+    "privacy":"Privacy Statement",
+    "contactus":"Contact Us"
+  }
+}
